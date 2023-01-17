@@ -2,6 +2,9 @@
 Java library used to connect to an ATAK server and send Cursor-On-Target (COT) messages. This library has no dependencies
 and is released under a permissive MIT license.
 
+![image](https://user-images.githubusercontent.com/10224874/212929486-77d762d9-78ab-47bc-b62e-4dcfa368f065.png)
+
+
 ## Example Usage
 The following class is used to connect to an ATAK server using a client and server certificate and relay ficticious drone 
 locations every 10 seconds.
